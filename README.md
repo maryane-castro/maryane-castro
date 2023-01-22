@@ -25,5 +25,5 @@
   
 </div>
   
-  ![Snake animation](https://github.com/maryane-castro/maryane-castro/blob/output/github-contribution-grid-snake.svg)
+
 
