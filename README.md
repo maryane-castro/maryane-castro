@@ -12,7 +12,7 @@
   <img align="center" alt="maryane-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="maryane-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="maryane-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-   <img align="center" alt="maryane-django" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/django/django-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg)" />
+   <img align="center" alt="maryane-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/django/django-plain.svg" />
   <img align="center" alt="maryane-Vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
           
